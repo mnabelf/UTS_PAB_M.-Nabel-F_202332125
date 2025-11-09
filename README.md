@@ -34,6 +34,7 @@ Navigasi sederhana dan mudah dipahami pengguna.
 Pie chart interaktif untuk analisis pengeluaran.
 
 🖼️ Screenshot UI
+
 Login
 
 <img src="assets/readme/login.png" width="300">
