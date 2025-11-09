@@ -33,6 +33,22 @@ Navigasi sederhana dan mudah dipahami pengguna.
 
 Pie chart interaktif untuk analisis pengeluaran.
 
+🖼️ Screenshot UI
+Login
+<img src="assets/readme/login.png" width="300">
+Dashboard
+<img src="assets/readme/dashboard.png" width="300">
+Bottom Sheet – Tambah Transaksi
+<img src="assets/readme/add.png" width="300">
+Detail Transaksi
+<img src="assets/readme/detail.png" width="300">
+Edit Transaksi
+<img src="assets/readme/edit.png" width="300">
+Hapus Transaksi
+<img src="assets/readme/delete.png" width="300">
+Analisis Pengeluaran (Pie Chart)
+<img src="assets/readme/chart.png" width="300">
+
 🧱 Teknologi & Library
 
 Flutter & Dart
